@@ -1,4 +1,4 @@
-![FocusLab](FocusLab_Logo.png)
+![FocusLab](https://github.com/IcedWatermelonJuice/FocusLabLogo/blob/main/FocusLab_Logo.png)
 
 # 📢 FS-SEI Method Based on P3MC
 * The code corresponds to our **early access** paper "[P3MC: Dual-Level Data Augmentation for Robust Few-Shot Specific Emitter Identification](https://ieeexplore.ieee.org/document/11073147)".
