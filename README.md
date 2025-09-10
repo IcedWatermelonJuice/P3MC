@@ -1,7 +1,7 @@
 ![FocusLab](https://github.com/IcedWatermelonJuice/IcedWatermelonJuice/blob/main/FocusLab_Logo.png?raw=true)
 
 # 📢 FS-SEI Method Based on P3MC
-* The code corresponds to our **early access** paper "[P3MC: Dual-Level Data Augmentation for Robust Few-Shot Specific Emitter Identification](https://ieeexplore.ieee.org/document/11073147)".
+* The code corresponds to our paper "[P3MC: Dual-Level Data Augmentation for Robust Few-Shot Specific Emitter Identification](https://ieeexplore.ieee.org/document/11073147)".
 * If you find our project helpful for your research, please consider citing our work. Thank you!
 ```
 @ARTICLE{11073147,
@@ -9,10 +9,10 @@
   journal={IEEE Internet of Things Journal}, 
   title={P3MC: Dual-Level Data Augmentation for Robust Few-Shot Specific Emitter Identification}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Data augmentation;Feature extraction;Internet of Things;Transformers;Security;Authentication;Transfer learning;Time series analysis;Generative adversarial networks;Training;Specific emitter identification (SEI);few-shot learning;self-supervised learning;data augmentation;feature augmentation},
+  volume={12},
+  number={18},
+  pages={38668-38679},
+  keywords={Data augmentation;Feature extraction;Internet of Things;Transformers;Security;Authentication;Transfer learning;Time series analysis;Generative adversarial networks;Training;Data augmentation;feature augmentation;few-shot learning (FSL);self-supervised learning;specific emitter identification (SEI)},
   doi={10.1109/JIOT.2025.3586923}}
 ```
 
