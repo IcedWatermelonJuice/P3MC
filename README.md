@@ -89,5 +89,5 @@ To run this project locally, please follow these steps:
   [https://cloud.xulai.work/Datasets/LoRa](https://cloud.xulai.work/Datasets/LoRa)
 
 # ✉️ Contact
-* E-mail: [2025011313@njupt.edu.cn](mailto:2025011313@njupt.edu.cn).
+* E-mail: [xulai@njupt.edu.cn](mailto:xulai@njupt.edu.cn).
 * Issues: [GitHub Issues](https://github.com/IcedWatermelonJuice/P3MC/issues).
