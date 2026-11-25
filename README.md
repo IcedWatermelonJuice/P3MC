@@ -6,7 +6,6 @@
   <img alt="pytorch 1.10.2" src="https://img.shields.io/badge/pytorch-1.10.2-blue">
   <img alt="numpy 1.21.5" src="https://img.shields.io/badge/numpy-1.21.5-blue">
   <img alt="scikit-learn 1.0.2" src="https://img.shields.io/badge/scikit--learn-1.0.2-blue">
-  <img alt="Python 3.8" src="https://img.shields.io/badge/python-3.8-blue">
 </p>
 
 * The code corresponds to our paper "[P3MC: Dual-Level Data Augmentation for Robust Few-Shot Specific Emitter Identification](https://ieeexplore.ieee.org/document/11073147)".
