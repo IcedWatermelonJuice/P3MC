@@ -1,6 +1,14 @@
-![FocusLab](https://github.com/IcedWatermelonJuice/IcedWatermelonJuice/blob/main/FocusLab_Logo.png?raw=true)
+<p align="center"><img src="https://github.com/IcedWatermelonJuice/IcedWatermelonJuice/blob/main/FocusLab_Logo.png?raw=true" alt="FocusLab" width="360"></p>
 
 # 📢 FS-SEI Method Based on P3MC
+<p align="center">
+  <img alt="python 3.8" src="https://img.shields.io/badge/python-3.8-blue">
+  <img alt="pytorch 1.10.2" src="https://img.shields.io/badge/pytorch-1.10.2-blue">
+  <img alt="numpy 1.21.5" src="https://img.shields.io/badge/numpy-1.21.5-blue">
+  <img alt="scikit-learn 1.0.2" src="https://img.shields.io/badge/scikit--learn-1.0.2-blue">
+  <img alt="Python 3.8" src="https://img.shields.io/badge/python-3.8-blue">
+</p>
+
 * The code corresponds to our paper "[P3MC: Dual-Level Data Augmentation for Robust Few-Shot Specific Emitter Identification](https://ieeexplore.ieee.org/document/11073147)".
 * If you find our project helpful for your research, please consider citing our work. Thank you!
 ```
@@ -16,15 +24,8 @@
   doi={10.1109/JIOT.2025.3586923}}
 ```
 
-# 📑 Requirement
-![python 3.8](https://img.shields.io/badge/python-3.8-blue)
-![pytorch 1.10.2](https://img.shields.io/badge/pytorch-1.10.2-blue)
-![numpy 1.21.5](https://img.shields.io/badge/numpy-1.21.5-blue)
-![pillow 9.4.0](https://img.shields.io/badge/pillow-9.4.0-blue)
-![tftb](https://img.shields.io/badge/tftb-9.4.0-blue)
-![scikit-learn 1.0.2](https://img.shields.io/badge/scikit--learn-1.0.2-blue)
-![tqdm 4.64.1](https://img.shields.io/badge/tqdm-4.64.1-blue)
-![pandas 1.3.5](https://img.shields.io/badge/pandas-1.3.5-blue)
+# 📫Contact
+- Mail: [xulai@njupt.edu.cn](mailto:xulai@njupt.edu.cn)
 
 # 🎯 Deployment
 ### Preparation
